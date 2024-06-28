@@ -1,0 +1,7 @@
+{
+  "name": "Crud-IonicApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
